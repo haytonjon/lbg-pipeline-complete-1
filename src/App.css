@@ -5,6 +5,7 @@
 
 .colour-border{
   border: 3px solid green;
+  fill: 3px solid beige;
   padding: 10px;
 }
 
